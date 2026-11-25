@@ -23,7 +23,9 @@ Faker (synthetic data) -> Python ETL (clean + validate) -> MySQL
 customer-feedback-analysis/
 ├── sql/
 │   ├── schema.sql
-│   └── analysis_queries.sql
+│   └── sql
+       ├──analysis_queries.sql
+
 ├── screenshots/
 ├── generate_data.py         # ETL: generate, clean, load into MySQL
 ├── sentiment_analysis.py    # validation + VADER sentiment + comparison
@@ -31,7 +33,6 @@ customer-feedback-analysis/
 ├── app.py                   # Streamlit app (Overview + AI vs Rating tabs)
 ├── feedback_dashboard.pbix  # Power BI dashboard
 ├── .env.example
-├── .gitignore
 └── README.md
 ```
 
