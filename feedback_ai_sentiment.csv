@@ -1,0 +1,499 @@
+feedback_id,feedback_text,rating,category,feedback_length,ai_sentiment,ai_score,rating_sentiment,match
+1,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+2,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+3,Product arrived damaged and refund is pending.,2,Delivery,46,Negative,-0.4404,Negative,True
+4,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+5,Delivery was delayed by many days.,2,Payment,34,Negative,-0.2263,Negative,True
+6,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+7,Product arrived damaged and refund is pending.,2,Technical,46,Negative,-0.4404,Negative,True
+8,Delivery was okay but could be faster.,3,Payment,38,Positive,0.1154,Neutral,False
+9,Fast delivery and great packaging.,4,Payment,34,Positive,0.6249,Positive,True
+10,Support team was very helpful.,5,Service,30,Positive,0.6997,Positive,True
+11,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+12,Product quality is amazing.,4,Delivery,27,Positive,0.5859,Positive,True
+13,"Very bad experience, I am disappointed.",1,Delivery,39,Negative,-0.7841,Negative,True
+14,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+15,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+16,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+17,"Very bad experience, I am disappointed.",1,Payment,39,Negative,-0.7841,Negative,True
+18,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+19,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+20,Payment was deducted but order was not placed.,2,Technical,46,Neutral,0.0,Negative,False
+21,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+22,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+23,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+24,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+25,Customer support did not respond to my complaint.,2,Payment,49,Positive,0.128,Negative,False
+26,Payment was deducted but order was not placed.,2,Technical,46,Neutral,0.0,Negative,False
+27,Fast delivery and great packaging.,4,Product,34,Positive,0.6249,Positive,True
+28,The app keeps crashing and is very slow.,1,Service,40,Neutral,0.0,Negative,False
+29,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+30,Fast delivery and great packaging.,5,Technical,34,Positive,0.6249,Positive,True
+31,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+32,"Excellent service, very satisfied.",5,Product,34,Positive,0.7778,Positive,True
+33,Fast delivery and great packaging.,4,Payment,34,Positive,0.6249,Positive,True
+34,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+35,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+36,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+37,Product arrived damaged and refund is pending.,2,Technical,46,Negative,-0.4404,Negative,True
+38,Customer support did not respond to my complaint.,1,Service,49,Positive,0.128,Negative,False
+39,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+40,Fast delivery and great packaging.,5,Service,34,Positive,0.6249,Positive,True
+41,Customer support did not respond to my complaint.,1,Product,49,Positive,0.128,Negative,False
+42,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+43,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+44,Delivery was delayed by many days.,1,Product,34,Negative,-0.2263,Negative,True
+45,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+46,"Very bad experience, I am disappointed.",2,Payment,39,Negative,-0.7841,Negative,True
+47,"Product is fine, packaging was average.",3,Technical,39,Positive,0.2023,Neutral,False
+48,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+49,"Excellent service, very satisfied.",5,Product,34,Positive,0.7778,Positive,True
+50,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+51,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+52,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+53,Delivery was delayed by many days.,1,Payment,34,Negative,-0.2263,Negative,True
+54,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+55,"Very bad experience, I am disappointed.",1,Delivery,39,Negative,-0.7841,Negative,True
+56,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+57,Delivery was okay but could be faster.,3,Product,38,Positive,0.1154,Neutral,False
+58,Delivery was okay but could be faster.,3,Payment,38,Positive,0.1154,Neutral,False
+59,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+60,Fast delivery and great packaging.,5,Product,34,Positive,0.6249,Positive,True
+61,Delivery was okay but could be faster.,3,Service,38,Positive,0.1154,Neutral,False
+62,Delivery was okay but could be faster.,3,Service,38,Positive,0.1154,Neutral,False
+63,Service was acceptable.,3,Technical,23,Positive,0.3182,Neutral,False
+64,Delivery was okay but could be faster.,3,Technical,38,Positive,0.1154,Neutral,False
+65,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+66,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+67,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+68,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+69,"Excellent service, very satisfied.",5,Delivery,34,Positive,0.7778,Positive,True
+70,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+71,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+72,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+73,Product arrived damaged and refund is pending.,2,Delivery,46,Negative,-0.4404,Negative,True
+74,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+75,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+76,Payment was deducted but order was not placed.,1,Payment,46,Neutral,0.0,Negative,False
+77,"Very bad experience, I am disappointed.",1,Service,39,Negative,-0.7841,Negative,True
+78,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+79,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+80,"Very bad experience, I am disappointed.",2,Technical,39,Negative,-0.7841,Negative,True
+81,The app keeps crashing and is very slow.,2,Technical,40,Neutral,0.0,Negative,False
+82,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+83,Support team was very helpful.,5,Payment,30,Positive,0.6997,Positive,True
+84,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+85,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+86,"Product is fine, packaging was average.",3,Delivery,39,Positive,0.2023,Neutral,False
+87,Delivery was okay but could be faster.,3,Payment,38,Positive,0.1154,Neutral,False
+88,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+89,Delivery was okay but could be faster.,3,Service,38,Positive,0.1154,Neutral,False
+90,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+91,The app keeps crashing and is very slow.,1,Service,40,Neutral,0.0,Negative,False
+92,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+93,The app keeps crashing and is very slow.,2,Delivery,40,Neutral,0.0,Negative,False
+94,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+95,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+96,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+97,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+98,The app keeps crashing and is very slow.,2,Product,40,Neutral,0.0,Negative,False
+99,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+100,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+101,Payment was deducted but order was not placed.,2,Service,46,Neutral,0.0,Negative,False
+102,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+103,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+104,Fast delivery and great packaging.,5,Product,34,Positive,0.6249,Positive,True
+105,Product quality is amazing.,4,Technical,27,Positive,0.5859,Positive,True
+106,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+107,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+108,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+109,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+110,Support team was very helpful.,4,Technical,30,Positive,0.6997,Positive,True
+111,The app keeps crashing and is very slow.,2,Payment,40,Neutral,0.0,Negative,False
+112,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+113,Payment was deducted but order was not placed.,1,Delivery,46,Neutral,0.0,Negative,False
+114,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+115,Product arrived damaged and refund is pending.,1,Service,46,Negative,-0.4404,Negative,True
+116,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+117,Support team was very helpful.,5,Payment,30,Positive,0.6997,Positive,True
+118,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+119,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+120,Delivery was okay but could be faster.,3,Delivery,38,Positive,0.1154,Neutral,False
+121,Payment was deducted but order was not placed.,1,Service,46,Neutral,0.0,Negative,False
+122,Delivery was delayed by many days.,2,Product,34,Negative,-0.2263,Negative,True
+123,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+124,"Very bad experience, I am disappointed.",1,Product,39,Negative,-0.7841,Negative,True
+125,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+126,Support team was very helpful.,5,Service,30,Positive,0.6997,Positive,True
+127,"Average experience, nothing special.",3,Product,36,Negative,-0.3089,Neutral,False
+128,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+129,Payment was deducted but order was not placed.,1,Product,46,Neutral,0.0,Negative,False
+130,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+131,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+132,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+133,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+134,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+135,Customer support did not respond to my complaint.,2,Service,49,Positive,0.128,Negative,False
+136,Delivery was delayed by many days.,2,Service,34,Negative,-0.2263,Negative,True
+137,Customer support did not respond to my complaint.,1,Payment,49,Positive,0.128,Negative,False
+138,Delivery was okay but could be faster.,3,Delivery,38,Positive,0.1154,Neutral,False
+139,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+140,"Excellent service, very satisfied.",4,Service,34,Positive,0.7778,Positive,True
+141,Smooth payment and quick refund.,4,Technical,32,Neutral,0.0,Positive,False
+142,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+143,Smooth payment and quick refund.,4,Technical,32,Neutral,0.0,Positive,False
+144,"Excellent service, very satisfied.",5,Payment,34,Positive,0.7778,Positive,True
+145,Delivery was okay but could be faster.,3,Technical,38,Positive,0.1154,Neutral,False
+146,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+147,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+148,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+149,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+150,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+151,The app keeps crashing and is very slow.,2,Service,40,Neutral,0.0,Negative,False
+152,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+153,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+154,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+155,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+156,Product quality is amazing.,4,Technical,27,Positive,0.5859,Positive,True
+157,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+158,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+159,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+160,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+161,Product quality is amazing.,5,Delivery,27,Positive,0.5859,Positive,True
+162,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+163,Fast delivery and great packaging.,5,Service,34,Positive,0.6249,Positive,True
+164,The app keeps crashing and is very slow.,1,Service,40,Neutral,0.0,Negative,False
+165,"Excellent service, very satisfied.",5,Payment,34,Positive,0.7778,Positive,True
+166,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+167,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+168,Product quality is amazing.,5,Delivery,27,Positive,0.5859,Positive,True
+169,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+170,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+171,Product arrived damaged and refund is pending.,1,Product,46,Negative,-0.4404,Negative,True
+172,Delivery was okay but could be faster.,3,Delivery,38,Positive,0.1154,Neutral,False
+173,Product quality is amazing.,5,Delivery,27,Positive,0.5859,Positive,True
+174,Service was acceptable.,3,Technical,23,Positive,0.3182,Neutral,False
+175,"Excellent service, very satisfied.",4,Technical,34,Positive,0.7778,Positive,True
+176,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+177,Delivery was delayed by many days.,2,Product,34,Negative,-0.2263,Negative,True
+178,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+179,Product arrived damaged and refund is pending.,1,Service,46,Negative,-0.4404,Negative,True
+180,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+181,Customer support did not respond to my complaint.,1,Delivery,49,Positive,0.128,Negative,False
+182,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+183,Product arrived damaged and refund is pending.,1,Service,46,Negative,-0.4404,Negative,True
+184,Product quality is amazing.,5,Payment,27,Positive,0.5859,Positive,True
+185,Fast delivery and great packaging.,4,Product,34,Positive,0.6249,Positive,True
+186,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+187,Product quality is amazing.,4,Delivery,27,Positive,0.5859,Positive,True
+188,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+189,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+190,"Excellent service, very satisfied.",4,Payment,34,Positive,0.7778,Positive,True
+191,Product quality is amazing.,5,Product,27,Positive,0.5859,Positive,True
+192,"Excellent service, very satisfied.",5,Service,34,Positive,0.7778,Positive,True
+193,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+194,Customer support did not respond to my complaint.,1,Technical,49,Positive,0.128,Negative,False
+195,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+196,Fast delivery and great packaging.,5,Product,34,Positive,0.6249,Positive,True
+197,"Excellent service, very satisfied.",5,Payment,34,Positive,0.7778,Positive,True
+198,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+199,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+200,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+201,"Product is fine, packaging was average.",3,Technical,39,Positive,0.2023,Neutral,False
+202,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+203,Product arrived damaged and refund is pending.,2,Payment,46,Negative,-0.4404,Negative,True
+204,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+205,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+206,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+207,Delivery was delayed by many days.,1,Payment,34,Negative,-0.2263,Negative,True
+208,Delivery was delayed by many days.,1,Payment,34,Negative,-0.2263,Negative,True
+209,"Excellent service, very satisfied.",4,Payment,34,Positive,0.7778,Positive,True
+210,"Excellent service, very satisfied.",4,Service,34,Positive,0.7778,Positive,True
+211,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+212,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+213,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+214,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+215,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+216,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+217,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+218,"Average experience, nothing special.",3,Delivery,36,Negative,-0.3089,Neutral,False
+219,Delivery was okay but could be faster.,3,Service,38,Positive,0.1154,Neutral,False
+220,"Very bad experience, I am disappointed.",1,Delivery,39,Negative,-0.7841,Negative,True
+221,Smooth payment and quick refund.,5,Technical,32,Neutral,0.0,Positive,False
+222,Service was acceptable.,3,Product,23,Positive,0.3182,Neutral,False
+223,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+224,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+225,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+226,Customer support did not respond to my complaint.,2,Technical,49,Positive,0.128,Negative,False
+227,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+228,Delivery was delayed by many days.,2,Product,34,Negative,-0.2263,Negative,True
+229,The app keeps crashing and is very slow.,2,Product,40,Neutral,0.0,Negative,False
+230,Product arrived damaged and refund is pending.,1,Technical,46,Negative,-0.4404,Negative,True
+231,Payment was deducted but order was not placed.,2,Delivery,46,Neutral,0.0,Negative,False
+232,"Average experience, nothing special.",3,Product,36,Negative,-0.3089,Neutral,False
+233,"Very bad experience, I am disappointed.",2,Delivery,39,Negative,-0.7841,Negative,True
+234,Service was acceptable.,3,Service,23,Positive,0.3182,Neutral,False
+235,The app keeps crashing and is very slow.,2,Product,40,Neutral,0.0,Negative,False
+236,Customer support did not respond to my complaint.,2,Delivery,49,Positive,0.128,Negative,False
+237,"Very bad experience, I am disappointed.",1,Payment,39,Negative,-0.7841,Negative,True
+238,"Product is fine, packaging was average.",3,Delivery,39,Positive,0.2023,Neutral,False
+239,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+240,Customer support did not respond to my complaint.,1,Delivery,49,Positive,0.128,Negative,False
+241,"Very bad experience, I am disappointed.",1,Service,39,Negative,-0.7841,Negative,True
+242,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+243,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+244,Product quality is amazing.,5,Product,27,Positive,0.5859,Positive,True
+245,Service was acceptable.,3,Technical,23,Positive,0.3182,Neutral,False
+246,Delivery was delayed by many days.,1,Payment,34,Negative,-0.2263,Negative,True
+247,Customer support did not respond to my complaint.,1,Payment,49,Positive,0.128,Negative,False
+248,Fast delivery and great packaging.,5,Payment,34,Positive,0.6249,Positive,True
+249,Customer support did not respond to my complaint.,1,Payment,49,Positive,0.128,Negative,False
+250,Support team was very helpful.,5,Service,30,Positive,0.6997,Positive,True
+251,Smooth payment and quick refund.,5,Technical,32,Neutral,0.0,Positive,False
+252,Service was acceptable.,3,Product,23,Positive,0.3182,Neutral,False
+253,"Average experience, nothing special.",3,Delivery,36,Negative,-0.3089,Neutral,False
+254,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+255,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+256,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+257,Service was acceptable.,3,Technical,23,Positive,0.3182,Neutral,False
+258,Delivery was delayed by many days.,2,Product,34,Negative,-0.2263,Negative,True
+259,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+260,Product quality is amazing.,4,Delivery,27,Positive,0.5859,Positive,True
+261,"Product is fine, packaging was average.",3,Product,39,Positive,0.2023,Neutral,False
+262,"Product is fine, packaging was average.",3,Technical,39,Positive,0.2023,Neutral,False
+263,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+264,"Average experience, nothing special.",3,Delivery,36,Negative,-0.3089,Neutral,False
+265,Smooth payment and quick refund.,4,Product,32,Neutral,0.0,Positive,False
+266,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+267,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+268,Delivery was delayed by many days.,2,Product,34,Negative,-0.2263,Negative,True
+269,Product quality is amazing.,4,Technical,27,Positive,0.5859,Positive,True
+270,Payment was deducted but order was not placed.,1,Technical,46,Neutral,0.0,Negative,False
+271,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+272,Product quality is amazing.,4,Service,27,Positive,0.5859,Positive,True
+273,Payment was deducted but order was not placed.,2,Delivery,46,Neutral,0.0,Negative,False
+274,Product quality is amazing.,4,Service,27,Positive,0.5859,Positive,True
+275,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+276,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+277,"Excellent service, very satisfied.",4,Payment,34,Positive,0.7778,Positive,True
+278,"Very bad experience, I am disappointed.",2,Payment,39,Negative,-0.7841,Negative,True
+279,"Excellent service, very satisfied.",5,Service,34,Positive,0.7778,Positive,True
+280,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+281,Payment was deducted but order was not placed.,1,Product,46,Neutral,0.0,Negative,False
+282,Product arrived damaged and refund is pending.,2,Service,46,Negative,-0.4404,Negative,True
+283,"Product is fine, packaging was average.",3,Payment,39,Positive,0.2023,Neutral,False
+284,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+285,"Excellent service, very satisfied.",5,Payment,34,Positive,0.7778,Positive,True
+286,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+287,Fast delivery and great packaging.,4,Payment,34,Positive,0.6249,Positive,True
+288,Payment was deducted but order was not placed.,2,Technical,46,Neutral,0.0,Negative,False
+289,"Product is fine, packaging was average.",3,Product,39,Positive,0.2023,Neutral,False
+290,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+291,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+292,Delivery was delayed by many days.,2,Payment,34,Negative,-0.2263,Negative,True
+293,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+294,Product arrived damaged and refund is pending.,1,Payment,46,Negative,-0.4404,Negative,True
+295,Support team was very helpful.,5,Payment,30,Positive,0.6997,Positive,True
+296,Product quality is amazing.,5,Payment,27,Positive,0.5859,Positive,True
+297,Delivery was delayed by many days.,1,Technical,34,Negative,-0.2263,Negative,True
+298,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+299,"Very bad experience, I am disappointed.",2,Delivery,39,Negative,-0.7841,Negative,True
+300,"Product is fine, packaging was average.",3,Payment,39,Positive,0.2023,Neutral,False
+301,"Product is fine, packaging was average.",3,Product,39,Positive,0.2023,Neutral,False
+302,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+303,Product arrived damaged and refund is pending.,2,Delivery,46,Negative,-0.4404,Negative,True
+304,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+305,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+306,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+307,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+308,"Excellent service, very satisfied.",4,Payment,34,Positive,0.7778,Positive,True
+309,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+310,Product quality is amazing.,4,Service,27,Positive,0.5859,Positive,True
+311,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+312,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+313,"Product is fine, packaging was average.",3,Delivery,39,Positive,0.2023,Neutral,False
+314,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+315,Product arrived damaged and refund is pending.,1,Service,46,Negative,-0.4404,Negative,True
+316,Product quality is amazing.,5,Product,27,Positive,0.5859,Positive,True
+317,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+318,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+319,The app keeps crashing and is very slow.,1,Technical,40,Neutral,0.0,Negative,False
+320,The app keeps crashing and is very slow.,1,Service,40,Neutral,0.0,Negative,False
+321,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+322,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+323,Payment was deducted but order was not placed.,1,Service,46,Neutral,0.0,Negative,False
+324,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+325,Customer support did not respond to my complaint.,2,Delivery,49,Positive,0.128,Negative,False
+326,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+327,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+328,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+329,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+330,Product arrived damaged and refund is pending.,1,Payment,46,Negative,-0.4404,Negative,True
+331,"Excellent service, very satisfied.",5,Service,34,Positive,0.7778,Positive,True
+332,Product quality is amazing.,5,Service,27,Positive,0.5859,Positive,True
+333,The app keeps crashing and is very slow.,2,Product,40,Neutral,0.0,Negative,False
+334,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+335,Product arrived damaged and refund is pending.,2,Delivery,46,Negative,-0.4404,Negative,True
+336,Product quality is amazing.,4,Technical,27,Positive,0.5859,Positive,True
+337,"Excellent service, very satisfied.",4,Delivery,34,Positive,0.7778,Positive,True
+338,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+339,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+340,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+341,"Average experience, nothing special.",3,Service,36,Negative,-0.3089,Neutral,False
+342,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+343,Product arrived damaged and refund is pending.,1,Service,46,Negative,-0.4404,Negative,True
+344,Payment was deducted but order was not placed.,2,Delivery,46,Neutral,0.0,Negative,False
+345,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+346,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+347,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+348,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+349,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+350,Delivery was delayed by many days.,1,Service,34,Negative,-0.2263,Negative,True
+351,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+352,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+353,Support team was very helpful.,4,Technical,30,Positive,0.6997,Positive,True
+354,Product arrived damaged and refund is pending.,2,Product,46,Negative,-0.4404,Negative,True
+355,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+356,Delivery was okay but could be faster.,3,Product,38,Positive,0.1154,Neutral,False
+357,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+358,Customer support did not respond to my complaint.,1,Product,49,Positive,0.128,Negative,False
+359,Payment was deducted but order was not placed.,2,Service,46,Neutral,0.0,Negative,False
+360,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+361,Fast delivery and great packaging.,5,Technical,34,Positive,0.6249,Positive,True
+362,The app keeps crashing and is very slow.,2,Delivery,40,Neutral,0.0,Negative,False
+363,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+364,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+365,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+366,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+367,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+368,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+369,The app keeps crashing and is very slow.,1,Delivery,40,Neutral,0.0,Negative,False
+370,Product quality is amazing.,4,Technical,27,Positive,0.5859,Positive,True
+371,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+372,Product arrived damaged and refund is pending.,2,Payment,46,Negative,-0.4404,Negative,True
+373,The app keeps crashing and is very slow.,1,Product,40,Neutral,0.0,Negative,False
+374,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+375,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+376,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+377,The app keeps crashing and is very slow.,2,Payment,40,Neutral,0.0,Negative,False
+378,Fast delivery and great packaging.,5,Delivery,34,Positive,0.6249,Positive,True
+379,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+380,Smooth payment and quick refund.,5,Technical,32,Neutral,0.0,Positive,False
+381,"Product is fine, packaging was average.",3,Payment,39,Positive,0.2023,Neutral,False
+382,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+383,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+384,Customer support did not respond to my complaint.,2,Delivery,49,Positive,0.128,Negative,False
+385,Payment was deducted but order was not placed.,1,Service,46,Neutral,0.0,Negative,False
+386,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+387,"Average experience, nothing special.",3,Delivery,36,Negative,-0.3089,Neutral,False
+388,"Excellent service, very satisfied.",4,Service,34,Positive,0.7778,Positive,True
+389,"Product is fine, packaging was average.",3,Product,39,Positive,0.2023,Neutral,False
+390,Fast delivery and great packaging.,4,Payment,34,Positive,0.6249,Positive,True
+391,Smooth payment and quick refund.,5,Delivery,32,Neutral,0.0,Positive,False
+392,Delivery was okay but could be faster.,3,Payment,38,Positive,0.1154,Neutral,False
+393,Support team was very helpful.,4,Technical,30,Positive,0.6997,Positive,True
+394,"Excellent service, very satisfied.",4,Technical,34,Positive,0.7778,Positive,True
+395,Fast delivery and great packaging.,5,Payment,34,Positive,0.6249,Positive,True
+396,Delivery was okay but could be faster.,3,Technical,38,Positive,0.1154,Neutral,False
+397,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+398,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+399,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+400,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+401,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+402,Product arrived damaged and refund is pending.,2,Service,46,Negative,-0.4404,Negative,True
+403,Service was acceptable.,3,Product,23,Positive,0.3182,Neutral,False
+404,Product quality is amazing.,4,Product,27,Positive,0.5859,Positive,True
+405,Payment was deducted but order was not placed.,2,Payment,46,Neutral,0.0,Negative,False
+406,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+407,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+408,Product arrived damaged and refund is pending.,2,Service,46,Negative,-0.4404,Negative,True
+409,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+410,"Excellent service, very satisfied.",4,Payment,34,Positive,0.7778,Positive,True
+411,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+412,Product quality is amazing.,5,Payment,27,Positive,0.5859,Positive,True
+413,Smooth payment and quick refund.,5,Technical,32,Neutral,0.0,Positive,False
+414,Fast delivery and great packaging.,5,Technical,34,Positive,0.6249,Positive,True
+415,Customer support did not respond to my complaint.,2,Technical,49,Positive,0.128,Negative,False
+416,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+417,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+418,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+419,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+420,Delivery was okay but could be faster.,3,Service,38,Positive,0.1154,Neutral,False
+421,"Very bad experience, I am disappointed.",2,Service,39,Negative,-0.7841,Negative,True
+422,Fast delivery and great packaging.,5,Product,34,Positive,0.6249,Positive,True
+423,"Very bad experience, I am disappointed.",2,Product,39,Negative,-0.7841,Negative,True
+424,The app keeps crashing and is very slow.,2,Payment,40,Neutral,0.0,Negative,False
+425,Fast delivery and great packaging.,5,Payment,34,Positive,0.6249,Positive,True
+426,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+427,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+428,"Product is fine, packaging was average.",3,Delivery,39,Positive,0.2023,Neutral,False
+429,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+430,"Excellent service, very satisfied.",5,Technical,34,Positive,0.7778,Positive,True
+431,Product quality is amazing.,5,Technical,27,Positive,0.5859,Positive,True
+432,Fast delivery and great packaging.,5,Payment,34,Positive,0.6249,Positive,True
+433,Service was acceptable.,3,Technical,23,Positive,0.3182,Neutral,False
+434,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+435,Delivery was okay but could be faster.,3,Technical,38,Positive,0.1154,Neutral,False
+436,"Average experience, nothing special.",3,Product,36,Negative,-0.3089,Neutral,False
+437,"Excellent service, very satisfied.",5,Service,34,Positive,0.7778,Positive,True
+438,Product arrived damaged and refund is pending.,1,Payment,46,Negative,-0.4404,Negative,True
+439,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+440,Support team was very helpful.,4,Product,30,Positive,0.6997,Positive,True
+441,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+442,Smooth payment and quick refund.,4,Service,32,Neutral,0.0,Positive,False
+443,Smooth payment and quick refund.,5,Payment,32,Neutral,0.0,Positive,False
+444,Delivery was delayed by many days.,2,Delivery,34,Negative,-0.2263,Negative,True
+445,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+446,Product arrived damaged and refund is pending.,2,Product,46,Negative,-0.4404,Negative,True
+447,Support team was very helpful.,4,Service,30,Positive,0.6997,Positive,True
+448,"Average experience, nothing special.",3,Payment,36,Negative,-0.3089,Neutral,False
+449,"Very bad experience, I am disappointed.",1,Technical,39,Negative,-0.7841,Negative,True
+450,Smooth payment and quick refund.,5,Service,32,Neutral,0.0,Positive,False
+451,Customer support did not respond to my complaint.,2,Product,49,Positive,0.128,Negative,False
+452,Customer support did not respond to my complaint.,2,Payment,49,Positive,0.128,Negative,False
+453,Product quality is amazing.,5,Payment,27,Positive,0.5859,Positive,True
+454,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+455,"Average experience, nothing special.",3,Technical,36,Negative,-0.3089,Neutral,False
+456,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+457,Smooth payment and quick refund.,5,Technical,32,Neutral,0.0,Positive,False
+458,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+459,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+460,Smooth payment and quick refund.,4,Delivery,32,Neutral,0.0,Positive,False
+461,Product quality is amazing.,5,Payment,27,Positive,0.5859,Positive,True
+462,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+463,Service was acceptable.,3,Delivery,23,Positive,0.3182,Neutral,False
+464,"Average experience, nothing special.",3,Product,36,Negative,-0.3089,Neutral,False
+465,Customer support did not respond to my complaint.,1,Delivery,49,Positive,0.128,Negative,False
+466,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+467,Smooth payment and quick refund.,4,Payment,32,Neutral,0.0,Positive,False
+468,Product quality is amazing.,4,Delivery,27,Positive,0.5859,Positive,True
+469,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+470,Payment was deducted but order was not placed.,2,Service,46,Neutral,0.0,Negative,False
+471,Fast delivery and great packaging.,4,Delivery,34,Positive,0.6249,Positive,True
+472,The app keeps crashing and is very slow.,1,Delivery,40,Neutral,0.0,Negative,False
+473,"Product is fine, packaging was average.",3,Delivery,39,Positive,0.2023,Neutral,False
+474,Product quality is amazing.,4,Payment,27,Positive,0.5859,Positive,True
+475,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+476,Support team was very helpful.,5,Delivery,30,Positive,0.6997,Positive,True
+477,Customer support did not respond to my complaint.,1,Payment,49,Positive,0.128,Negative,False
+478,Support team was very helpful.,4,Payment,30,Positive,0.6997,Positive,True
+479,Service was acceptable.,3,Payment,23,Positive,0.3182,Neutral,False
+480,Fast delivery and great packaging.,4,Service,34,Positive,0.6249,Positive,True
+481,Support team was very helpful.,5,Technical,30,Positive,0.6997,Positive,True
+482,"Average experience, nothing special.",3,Delivery,36,Negative,-0.3089,Neutral,False
+483,"Excellent service, very satisfied.",4,Product,34,Positive,0.7778,Positive,True
+484,Smooth payment and quick refund.,5,Product,32,Neutral,0.0,Positive,False
+485,Product quality is amazing.,4,Service,27,Positive,0.5859,Positive,True
+486,Customer support did not respond to my complaint.,1,Technical,49,Positive,0.128,Negative,False
+487,Support team was very helpful.,4,Delivery,30,Positive,0.6997,Positive,True
+488,Delivery was okay but could be faster.,3,Delivery,38,Positive,0.1154,Neutral,False
+489,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+490,Delivery was delayed by many days.,1,Delivery,34,Negative,-0.2263,Negative,True
+491,"Product is fine, packaging was average.",3,Service,39,Positive,0.2023,Neutral,False
+492,"Very bad experience, I am disappointed.",1,Delivery,39,Negative,-0.7841,Negative,True
+493,Delivery was delayed by many days.,1,Product,34,Negative,-0.2263,Negative,True
+494,Fast delivery and great packaging.,4,Technical,34,Positive,0.6249,Positive,True
+495,Payment was deducted but order was not placed.,2,Service,46,Neutral,0.0,Negative,False
+496,"Excellent service, very satisfied.",4,Technical,34,Positive,0.7778,Positive,True
+497,Support team was very helpful.,5,Product,30,Positive,0.6997,Positive,True
+498,"Excellent service, very satisfied.",4,Technical,34,Positive,0.7778,Positive,True
